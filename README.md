@@ -10,4 +10,5 @@ Veter9 Infra repository
 bastion_IP = 35.233.63.1
 someinternalhost_IP = 10.166.0.2
 
+## ресрт сервера 
 
