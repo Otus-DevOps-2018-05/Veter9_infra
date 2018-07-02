@@ -12,3 +12,6 @@ someinternalhost_IP = 10.166.0.2
 
 ## ресрт сервера 
 
+## Домашнее задание 4
+testapp_IP = 35.195.233.160
+testapp_port = 9292
