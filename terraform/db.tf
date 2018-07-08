@@ -1,11 +1,11 @@
 resource "google_compute_instance" "db" {
   "boot_disk" {
     initialize_params {
-      image = "${var.app_disk_image}"
+      image = "${var.db_disk_image}"
     }
   }
   machine_type = "g1-small"
-  name = "reddit-app"
+  name = "reddit-db"
   zone = "${var.zone}"
   tags = ["reddit-db"]
 
@@ -19,12 +19,12 @@ resource "google_compute_instance" "db" {
 }
 
 resource "google_compute_firewall" "firewall_mongo" {
-  name = "allow-mongo-db"
+  name = "allow-mongo-default"
   network = "default"
   allow {
-    protocol = "tcp
+    protocol = "tcp"
     ports = ["27017"]
   }
-  target_tags = ["reddit_db"]
+  target_tags = ["reddit-db"]
   source_tags = ["reddit-app"]
 }
