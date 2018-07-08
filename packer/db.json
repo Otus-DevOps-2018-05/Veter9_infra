@@ -1,0 +1,23 @@
+{
+  "builders": [
+    {
+      "type": "googlecompute",
+      "project_id": "top-alliance-208117",
+      "machine_type": "f1-micro",
+      "zone": "europe-west1-b",
+      "image_name": "reddit-base",
+      "image_family": "reddit-db-base",
+      "source_image_family": "ubuntu-1604-lts",
+      "disk_size": "10",
+      "disk_type": "pd-standart",
+      "network": "default"
+    }
+  ],
+  "provisioners": [
+    {
+      "type": "shell",
+      "script": "{{template_dir}}/scripts/install_mongodb.sh",
+      "execute_command": "sudo {{.Path}}"
+    }
+  ]
+}
