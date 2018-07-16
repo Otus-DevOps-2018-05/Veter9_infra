@@ -1,6 +1,6 @@
 project = "top-alliance-208117"
-public_key_path = "~/.ssh/google_app.pub"
+public_key_path = "/home/nedoumenie/.ssh/google_app.pub"
 disk_image = "reddit-base"
-private_key_path = "~/.ssh/google_app"
+private_key_path = "/home/nedoumenie/.ssh/google_app"
 zone = "europe-west1-b"
 
