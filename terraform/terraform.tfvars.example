@@ -1,5 +1,0 @@
-project = "top-alliance-208117"
-public_key_path = "/home/nedoumenie/.ssh/appuser.pub"
-disk_image = "reddit-base"
-private_key_path = "/home/nedoumenie/.ssh/appuser"
-zone = "europe-west1-b"
