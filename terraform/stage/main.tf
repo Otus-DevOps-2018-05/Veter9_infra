@@ -1,10 +1,9 @@
-#provider "google" {
-#  version = "1.4.0"
-#  project = "${var.project}"
-#  region  = "${var.region}"
-#}
+provider "google" {
+  version = "1.4.0"
+  project = "${var.project}"
+  region  = "${var.region}"
+}
 
-# просто коммент для пуша
 
 module "app" {
   source          = "../modules/app"
