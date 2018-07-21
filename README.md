@@ -65,8 +65,31 @@ Veter9 Infra repository
 - применил таски на реальной машине gcp 
 - переходим к деплою (заметка для себя)
 - сделал второй коммит (слайд 35)
-
-
+- добавил в reddit_app.yml fetch lastest reddit
+- сделал чек и прогон плейбука (всё ок)
+- создал новый файл reddit_app2.yml
+- перенёс туда всё для mongod
+- убил все машины терраформом и пересоздал их
+- проверил ансибл-плейбук
+- не понравилось формирование инвентори руками снова, решил погуглить как это мождно автоматизировать
+- начал мучатся с динамическими инвентори.......
+......
+- 3 часа впустую. 
+- сделал всё через баш, добавил новый скрипт, который грепает адреса инстансов
+```bash
+#!/usr/bin/env bash
+path="/home/nedoumenie/Desktop/Veter9_infra/ansible"
+echo "[app]" > $path/inventory
+echo "appserver ansible_host="`gcloud compute instances list | awk 'NR==2' | awk '{print $5}'` >> $path/inventory
+path="/home/nedoumenie/Desktop/Veter9_infra/ansible"
+echo "[db]" >> $path/inventory
+echo "appserver ansible_host="`gcloud compute instances list | awk 'NR==3' | awk '{print $5}'` >> $path/inventory
+```
+- добавил в reddit_app2.yml деплой пумы
+- создал три новых файла app.yml db.yml deploy.yml
+- переименовал reddit_app.yml и reddit_app2.yml в другие имена, по слайду
+- сделал третий коммит, слайд 56
+- 
 
 
 после выполнения дз ирерахия директорий выглядит так:
