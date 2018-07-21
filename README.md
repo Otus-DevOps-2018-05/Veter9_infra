@@ -93,7 +93,7 @@ echo "appserver ansible_host="`gcloud compute instances list | awk 'NR==3' | awk
 - добавил новый файл site.yml, куда импортнул три предыдщуих файла
 - прочекал всё. вроде ок.
 - чевертый коммит.
-- 
+- добавил новые файлы для провижининга
 
 
 после выполнения дз ирерахия директорий выглядит так:
@@ -104,7 +104,6 @@ ansible
 ├──templates
 |  ├── db_config.j2
 |  └── mongod.conf.j2
-|
 ├── requirements.txt
 ├── site.yml
 ├── reddit_app_multiple_plays.yml
@@ -116,6 +115,8 @@ ansible
 ├── db.yml
 ├── app.yml
 ├── ansible.cfg
+├── packer_app.yml
+├── packer_db.yml
 └── clone.yml
 
 

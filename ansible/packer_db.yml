@@ -1,0 +1,39 @@
+---
+- name: install mogod
+  hosts: all
+  become: true
+  tasks:
+  - name: Add APT key
+    apt_key:
+      id: EA312927
+      keyserver: keyserver.ubuntu.com
+
+  # Подключаем репозиторий с пакетами mongodb
+  - name: Add APT repository
+    apt_repository:
+      repo: deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse
+      state: present
+
+  # Выполним установку пакета
+  - name: Install mongodb package
+    apt:
+      name: mongodb-org
+      state: present
+
+  # Включаем сервис
+  - name: Configure service supervisor
+    systemd:
+      name: mongod
+      enabled: yes
+
+#хз как это блять вставить в этот формат, запихну в коммент, чтобы разобраться
+
+#!/bin/bash
+#set -e
+#apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+#bash -c 'echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" > /etc/apt/sources.list.d/mongodb-org-3.2.list'
+#apt-get update
+#apt install -y mongodb-org
+#systemctl start mongod
+#systemctl enable mongod
+
