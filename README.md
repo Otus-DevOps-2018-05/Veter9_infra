@@ -150,4 +150,4 @@ ansible
 - работа с ansible vault. Создал файл users.yml , vault.key , credentials.yml 
 - сделал коммит перед шифрованием
 - зашифровал файлы, всё ок
-- 
+
