@@ -5,6 +5,7 @@ variables.json
 *.tfvars
 .terraform/
 *.retry
+
 jdauphant.nginx
 vault.key
 
@@ -15,3 +16,4 @@ vault.key
 .molecule
 .cache
 .pytest_cache
+
