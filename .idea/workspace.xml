@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f311abba-7f07-4781-9437-2a653adf8352" name="Default" comment="поправил ридми файл">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1729387157">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Vagrantfile" value="2" />
+          <entry key="cfg" value="4" />
+          <entry key="db" value="1" />
+          <entry key="example" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="j2" value="2" />
+          <entry key="json" value="1" />
+          <entry key="key" value="1" />
+          <entry key="md" value="8" />
+          <entry key="py" value="2" />
+          <entry key="rst" value="1" />
+          <entry key="tf" value="5" />
+          <entry key="txt" value="1" />
+          <entry key="yml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ini" value="2" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="2" />
+          <entry key="ReST" value="1" />
+          <entry key="Terraform" value="5" />
+          <entry key="YAML" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="1044" />
+          <entry key="py" value="1" />
+          <entry key="tf" value="1" />
+          <entry key="txt" value="148" />
+          <entry key="yml" value="95" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="1044" />
+          <entry key="PLAIN_TEXT" value="148" />
+          <entry key="Python" value="1" />
+          <entry key="Terraform" value="1" />
+          <entry key="YAML" value="95" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Veter9_infra" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ansible/ansible.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="439">
+                <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>${file(&quot;~/.ssh/google_app&quot;)}</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ansible-3" />
+      </map>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="cloud-testapp" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Otus-DevOps-2018-05" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Veter9_infra" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/terraform/stage/outputs.tf" />
+        <option value="$PROJECT_DIR$/ansible/cobbler.py" />
+        <option value="$PROJECT_DIR$/ansible/fillinventory.sh" />
+        <option value="$PROJECT_DIR$/ansible/reddit_app2.yml" />
+        <option value="$PROJECT_DIR$/ansible/site.yml" />
+        <option value="$PROJECT_DIR$/ansible/packer_app.yml" />
+        <option value="$PROJECT_DIR$/ansible/packer_db.yml" />
+        <option value="$PROJECT_DIR$/inventory" />
+        <option value="$PROJECT_DIR$/ansible/roles/db/handlers/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/handlers/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/deploy.yml" />
+        <option value="$PROJECT_DIR$/ansible/app.yml" />
+        <option value="$PROJECT_DIR$/ansible/db.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/stage/group_vars/db" />
+        <option value="$PROJECT_DIR$/ansible/environments/prod/group_vars/all" />
+        <option value="$PROJECT_DIR$/ansible/roles/db/defaults/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/prod/inventory" />
+        <option value="$PROJECT_DIR$/ansible/environments/stage/inventory" />
+        <option value="$PROJECT_DIR$/ansible/environments/prod/requirements.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/stage/requirements.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/prod/group_vars/app" />
+        <option value="$PROJECT_DIR$/ansible/playbooks/app.yml" />
+        <option value="$PROJECT_DIR$/terraform/modules/app/main.tf" />
+        <option value="$PROJECT_DIR$/ansible/vault.key" />
+        <option value="$PROJECT_DIR$/ansible/ansible.cfg" />
+        <option value="$PROJECT_DIR$/ansible/users.yml" />
+        <option value="$PROJECT_DIR$/ansible/credentials.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/stage/credentials.yml" />
+        <option value="$PROJECT_DIR$/ansible/environments/prod/credentials.yml" />
+        <option value="$PROJECT_DIR$/ansible/playbooks/packer_db.yml" />
+        <option value="$PROJECT_DIR$/packer/app.json" />
+        <option value="$PROJECT_DIR$/packer/db.json" />
+        <option value="$PROJECT_DIR$/ansible/environments/stage/group_vars/app" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ansible/playbooks/site.yml" />
+        <option value="$PROJECT_DIR$/ansible/playbooks/reddit_app_one_play.yml" />
+        <option value="$PROJECT_DIR$/ansible/base.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/db/tasks/install_mongo.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/db/tasks/config_mongo.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/db/tasks/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/tasks/ruby.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/tasks/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/defaults/main.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/templates/puma.yml" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/templates/puma.service.j2" />
+        <option value="$PROJECT_DIR$/ansible/roles/app/tasks/puma.yml" />
+        <option value="$PROJECT_DIR$/ansible/Vagrantfile" />
+        <option value="$PROJECT_DIR$/ansible/requirements.txt" />
+        <option value="$PROJECT_DIR$/terraform/modules/app/outputs.tf" />
+        <option value="$PROJECT_DIR$/terraform/prod/variables.tf" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="47" />
+    <option name="y" value="25" />
+    <option name="width" value="1257" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Veter9_infra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Veter9_infra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Veter9_infra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Veter9_infra" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TF_FMT" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Veter9_microservices" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ansible/playbooks" />
+      <recent name="$PROJECT_DIR$/ansible/old" />
+      <recent name="$PROJECT_DIR$/ansible/environments/prod/group_vars" />
+      <recent name="$PROJECT_DIR$/terraform" />
+      <recent name="$PROJECT_DIR$/terraform/prod" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ansible/environments/stage" />
+      <recent name="$PROJECT_DIR$/ansible/environments/prod" />
+      <recent name="$PROJECT_DIR$/ansible/environments/stage/group_vars" />
+      <recent name="$PROJECT_DIR$/ansible/roles/app/files" />
+      <recent name="$PROJECT_DIR$/ansible/roles/app/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
+    <configuration name="Unittests for test.NumbersTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Veter9_infra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.NumbersTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.NumbersTest.test_equal" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Veter9_infra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.NumbersTest.test_equal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="Veter9_infra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/play-travis/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in test.py" />
+      <item itemvalue="Python tests.Unittests for test.NumbersTest.test_equal" />
+      <item itemvalue="Python tests.Unittests for test.NumbersTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test.NumbersTest" />
+        <item itemvalue="Python tests.Unittests for test.NumbersTest.test_equal" />
+        <item itemvalue="Python tests.Unittests for test.NumbersTest" />
+        <item itemvalue="Python tests.Unittests for test.NumbersTest.test_equal" />
+        <item itemvalue="Python tests.Unittests for test.NumbersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f311abba-7f07-4781-9437-2a653adf8352" name="Default" comment="" />
+      <created>1529767241865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529767241865</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Переписал абсолютные пути к ключам ssh.&#10;Травис ругается на отсутствие ключей, ломиться зачем-то на /root/ дирекорию вместо моего хомяка.">
+      <created>1531762627269</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1531762627269</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Не, ну вот сейчас точно все сделал вроде правильно. Травис, работай давай.">
+      <created>1531762930947</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1531762930947</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Не, ну вот сейчас точно все сделал вроде правильно. Травис, работай давай.">
+      <created>1531763182176</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1531763182176</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Не, ну вот сейчас точно все сделал вроде правильно. Травис, работай давай.">
+      <created>1531764054420</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1531764054420</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Не, ну вот сейчас точно все сделал вроде правильно. Травис, работай давай.">
+      <created>1531764654626</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1531764654627</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Не, ну вот сейчас точно все сделал вроде правильно. Травис, работай давай.">
+      <created>1531766457948</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1531766457949</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Поменял имя файла google_app.pub на appuser.pub">
+      <created>1531768328361</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1531768328361</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Поменял имя файла google_app.pub на appuser.pub">
+      <created>1531768495764</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1531768495764</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Перегенерил ключ ssh">
+      <created>1531770732369</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1531770732369</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Перегенерил ключ ssh">
+      <created>1531771504395</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1531771504395</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Сделал валидацию терраформа">
+      <created>1531771800384</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1531771800384</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Сделал валидацию терраформа">
+      <created>1531772140147</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1531772140147</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Сделал валидацию терраформа">
+      <created>1531772929562</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1531772929562</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Правка пути к ключам">
+      <created>1531846682384</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1531846682384</updated>
+    </task>
+    <task id="LOCAL-00059" summary="первый коммит. Сделал все до слайда 24 по ДЗ ansible-1">
+      <created>1532111794337</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1532111794337</updated>
+    </task>
+    <task id="LOCAL-00060" summary="второй коммит. прогон на трависе перед PR">
+      <created>1532114279654</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1532114279654</updated>
+    </task>
+    <task id="LOCAL-00061" summary="перекинул все в бранч ансибл-2">
+      <created>1532114921965</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1532114921965</updated>
+    </task>
+    <task id="LOCAL-00062" summary="первый коммит по дз 9 (ansible-2).&#10;закончил на слайде 24">
+      <created>1532162610841</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1532162610842</updated>
+    </task>
+    <task id="LOCAL-00063" summary="второй коммит по дз 9 (ansible-2).&#10;закончил на слайде 35">
+      <created>1532165142677</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1532165142677</updated>
+    </task>
+    <task id="LOCAL-00064" summary="второй коммит по дз 9 (ansible-2).&#10;закончил на слайде 35">
+      <created>1532183740718</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1532183740718</updated>
+    </task>
+    <task id="LOCAL-00065" summary="второй коммит по дз 9 (ansible-2).&#10;закончил на слайде 35">
+      <created>1532184695254</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1532184695254</updated>
+    </task>
+    <task id="LOCAL-00066" summary="первый прогон трависа">
+      <created>1532185026670</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1532185026670</updated>
+    </task>
+    <task id="LOCAL-00067" summary="вожусь с packer_db.yml">
+      <created>1532186748801</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1532186748801</updated>
+    </task>
+    <task id="LOCAL-00068" summary="последний коммит, финальная стадия дз">
+      <created>1532187241420</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1532187241420</updated>
+    </task>
+    <task id="LOCAL-00069" summary="прогоны трависа">
+      <created>1532187415458</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1532187415458</updated>
+    </task>
+    <task id="LOCAL-00070" summary="прогоны трависа">
+      <created>1532188288494</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1532188288494</updated>
+    </task>
+    <task id="LOCAL-00071" summary="первый коммит, слайд 24. закончил первичную подготовку ролей">
+      <created>1532254897778</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1532254897778</updated>
+    </task>
+    <task id="LOCAL-00072" summary="второй коммит, слайд 29">
+      <created>1532267590059</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1532267590059</updated>
+    </task>
+    <task id="LOCAL-00073" summary="третий коммит, слайд 46">
+      <created>1532270593999</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1532270593999</updated>
+    </task>
+    <task id="LOCAL-00074" summary="четвертый коммит, слайд 65">
+      <created>1532273464565</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1532273464565</updated>
+    </task>
+    <task id="LOCAL-00075" summary="пятый коммит, прогон перед пр">
+      <created>1532274279725</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1532274279725</updated>
+    </task>
+    <task id="LOCAL-00076" summary="прогон трависа">
+      <created>1532274699288</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1532274699288</updated>
+    </task>
+    <task id="LOCAL-00077" summary="прогон трависа&#10;поправил пути в шаблоне пакера">
+      <created>1532275317627</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1532275317627</updated>
+    </task>
+    <task id="LOCAL-00078" summary="небольшой фикс app (перенос фигурной скобки)">
+      <created>1532275991944</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1532275991945</updated>
+    </task>
+    <task id="LOCAL-00079" summary="коммит задания 11, ансибл-4.&#10;слайд 20, дальше голова уже не варит">
+      <created>1532286686636</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1532286686637</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Merge branch 'master' of https://github.com/Otus-DevOps-2018-05/Veter9_infra into ansible-4&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1532791362800</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1532791362800</updated>
+    </task>
+    <task id="LOCAL-00081" summary="прогон трависа номер 1">
+      <created>1532793207274</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1532793207274</updated>
+    </task>
+    <task id="LOCAL-00082" summary="прогон трависа номер 2">
+      <created>1532793610366</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1532793610366</updated>
+    </task>
+    <task id="LOCAL-00083" summary="прогон трависа номер 3">
+      <created>1532793867162</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1532793867162</updated>
+    </task>
+    <task id="LOCAL-00084" summary="прогон трависа номер 4">
+      <created>1532794061358</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1532794061359</updated>
+    </task>
+    <task id="LOCAL-00085" summary="прогон трависа номер 5">
+      <created>1532795176179</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1532795176179</updated>
+    </task>
+    <task id="LOCAL-00086" summary="прогон трависа номер 5">
+      <created>1533976475200</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1533976475200</updated>
+    </task>
+    <task id="LOCAL-00087" summary="прогон трависа номер 5">
+      <created>1533976917428</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1533976917428</updated>
+    </task>
+    <task id="LOCAL-00088" summary="прогон травис">
+      <created>1534248083772</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1534248083772</updated>
+    </task>
+    <task id="LOCAL-00089" summary="git rm --cached ansible/vault.key&#10;add last blank string at &quot;/terraform/modules/app/outputs.tf&quot;&#10;deleted variable at &quot;terraform/prod/variables.tf&quot;&#10;deleted variable &quot;Path to private key&quot; an &quot;terraform/prod/main.tf&quot;">
+      <created>1534248812681</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1534248812681</updated>
+    </task>
+    <task id="LOCAL-00090" summary=" git rm --cached -r .idea">
+      <created>1534249568740</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1534249568740</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Итогово сделано:&#10;&#10;git rm --cached ansible/vault.key&#10;add last blank string at &quot;/terraform/modules/app/outputs.tf&quot;&#10;deleted variable at &quot;terraform/prod/variables.tf&quot;&#10;deleted variable &quot;Path to private key&quot; an &quot;terraform/prod/main.tf&quot;">
+      <created>1534249772083</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1534249772083</updated>
+    </task>
+    <task id="LOCAL-00092" summary="поправил ридми файл">
+      <created>1534250427974</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1534250427974</updated>
+    </task>
+    <task id="LOCAL-00093" summary="поправил ридми файл">
+      <created>1534250459605</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1534250459605</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.23 at 19h 49m 59s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.23 at 20h 01m 39s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.23 at 20h 01m 46s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.23 at 20h 35m 13s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.24 at 00h 46m 34s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.24 at 19h 25m 36s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_NumbersTest - 2018.06.24 at 19h 52m 57s.xml">
+      <configuration name="Unittests for test.NumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2018.06.24 at 19h 55m 08s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2018.06.24 at 19h 55m 14s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2018.06.24 at 19h 55m 23s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="25" width="1257" height="1055" extended-state="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891305" visible="true" weight="0.32122213" />
+      <window_info id="Structure" order="1" sideWeight="0.50108695" side_tool="true" weight="0.29983792" />
+      <window_info id="Favorites" order="2" sideWeight="0.50108695" side_tool="true" weight="0.29983792" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49867842" weight="0.28972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" weight="0.47826087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499795" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TeamCity" order="8" sideWeight="0.49964663" weight="0.32934782" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012265" side_tool="true" weight="0.58829904" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.499795" weight="0.3275488" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32934782" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.5013216" side_tool="true" visible="true" weight="0.27351353" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Version Control" order="3" sideWeight="0.49877352" weight="0.7210611" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891305" visible="true" weight="0.10214836" />
+      <window_info id="Structure" order="1" sideWeight="0.50108695" side_tool="true" weight="0.29983792" />
+      <window_info id="Favorites" order="2" sideWeight="0.50108695" side_tool="true" weight="0.29983792" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49939197" visible="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" weight="0.47826087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499795" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012265" side_tool="true" weight="0.5889371" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.499795" weight="0.3275488" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.500608" side_tool="true" visible="true" weight="0.29067245" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Version Control" order="3" sideWeight="0.49877352" visible="true" weight="0.39035267" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="130" />
+                  <entry key="3" value="130" />
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="второй коммит по дз 9 (ansible-2).&#10;закончил на слайде 35" />
+    <MESSAGE value="первый прогон трависа" />
+    <MESSAGE value="вожусь с packer_db.yml" />
+    <MESSAGE value="последний коммит, финальная стадия дз" />
+    <MESSAGE value="прогоны трависа" />
+    <MESSAGE value="первый коммит, слайд 24. закончил первичную подготовку ролей" />
+    <MESSAGE value="второй коммит, слайд 29" />
+    <MESSAGE value="третий коммит, слайд 46" />
+    <MESSAGE value="четвертый коммит, слайд 65" />
+    <MESSAGE value="пятый коммит, прогон перед пр" />
+    <MESSAGE value="прогон трависа" />
+    <MESSAGE value="прогон трависа&#10;поправил пути в шаблоне пакера" />
+    <MESSAGE value="небольшой фикс app (перенос фигурной скобки)" />
+    <MESSAGE value="коммит задания 11, ансибл-4.&#10;слайд 20, дальше голова уже не варит" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/Otus-DevOps-2018-05/Veter9_infra into ansible-4&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <MESSAGE value="прогон трависа номер 1" />
+    <MESSAGE value="прогон трависа номер 2" />
+    <MESSAGE value="прогон трависа номер 3" />
+    <MESSAGE value="прогон трависа номер 4" />
+    <MESSAGE value="прогон трависа номер 5" />
+    <MESSAGE value="прогон травис" />
+    <MESSAGE value="git rm --cached ansible/vault.key&#10;add last blank string at &quot;/terraform/modules/app/outputs.tf&quot;&#10;deleted variable at &quot;terraform/prod/variables.tf&quot;&#10;deleted variable &quot;Path to private key&quot; an &quot;terraform/prod/main.tf&quot;" />
+    <MESSAGE value=" git rm --cached -r .idea" />
+    <MESSAGE value="Итогово сделано:&#10;&#10;git rm --cached ansible/vault.key&#10;add last blank string at &quot;/terraform/modules/app/outputs.tf&quot;&#10;deleted variable at &quot;terraform/prod/variables.tf&quot;&#10;deleted variable &quot;Path to private key&quot; an &quot;terraform/prod/main.tf&quot;" />
+    <MESSAGE value="поправил ридми файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил ридми файл" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/group_vars/all" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/prod/group_vars/all" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/inventory" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/requirements.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/credentials.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/users.yml" />
+    <entry file="file://$PROJECT_DIR$/terraform/modules/app/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/inventory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packer/variables.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packer/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/environments/prod/group_vars/app" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/group_vars/app" />
+    <entry file="file://$PROJECT_DIR$/packer/.gitignote">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/site.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/reddit_app_one_play.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/environments/stage/group_vars/db" />
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/base.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/tasks/install_mongo.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/tasks/config_mongo.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/tasks/main.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/tasks/main.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/tasks/ruby.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/defaults/main.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/templates/puma.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/templates/db_config.j2" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/templates/puma.service.j2" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/app/tasks/puma.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/deploy.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/Vagrantfile" />
+    <entry file="file://$PROJECT_DIR$/ansible/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/molecule/default/molecule.yml" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/molecule/default/INSTALL.rst" />
+    <entry file="file://$PROJECT_DIR$/ansible/roles/db/molecule/default/tests/test_default.py" />
+    <entry file="file://$PROJECT_DIR$/packer/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packer/variables.json.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform/modules/app/outputs.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform/prod/outputs.tf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform/prod/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terraform/prod/variables.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/vault.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/credentials.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/app.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/environments/prod/credentials.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/clone.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/packer_app.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/environments/prod/requirements.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/playbooks/packer_db.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ansible/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="439">
+            <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
